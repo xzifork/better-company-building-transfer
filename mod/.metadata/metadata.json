@@ -1,12 +1,12 @@
 {
-  "name" : "Name of your Mod",
-  "id" : "com.github.your-github-name.your-repo-name",
-  "version" : "0.1.0",
+  "name" : "Better Company Building Transfer",
+  "id" : "com.github.xziyu6.better-company-building-transfer",
+  "version" : "1.0.0",
   "game_id" : "victoria3",
   "picture" : "thumbnail.png",
-  "supported_game_version" : "1.8.*",
-  "short_description" : "Description of your Mod",
-  "tags" : [],
+  "supported_game_version" : "1.12.*",
+  "short_description" : "Allows buildings owned by companies that don't have the respective industry rights to be bought by financial districts, just like workforce-owned buildings",
+  "tags" : ["Economy", "Gameplay"],
   "relationships" : [],
   "game_custom_data" : {
     "multiplayer_synchronized" : true
